@@ -1,36 +1,81 @@
-# Hi, I'm Sanjay Karinje 👋
+# Sanjay Karinje
 
-**Full-Stack Product Engineer**  
-Building AI agents, real-time collaboration tools, and developer platforms.  
-📍 [sanjaykarinje.dev](https://sanjaykarinje.dev) • [Resume](https://sanjaykarinje.dev/resume.pdf) • [LinkedIn](https://linkedin.com/in/sanjaykarinje)
+**Full-stack engineer building AI-powered tools and collaborative systems**
 
----
-
-## 🚀 Selected Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Collab Canvas](https://github.com/karinje/collab-canvas)** | Real-time whiteboard with AI manipulation via Canvas IQ Agent (19 tools, LangGraph + GPT-4o). | React, Firebase, LangGraph |
-| **[Clip Forge](https://github.com/karinje/clip-forge)** | Desktop video editor with screen recording, multi-track timeline, and FFmpeg export. | Electron, React, FFmpeg |
-| **[Step Tutor](https://github.com/karinje/step-tutor)** | Socratic AI math tutor with GeoGebra canvas integration and 3-node agent architecture. | Next.js, OpenAI, GeoGebra |
-| **[Message AI](https://github.com/karinje/message-ai)** | iOS messaging with LangGraph agent for calendar/deadline extraction and RAG via Pinecone. | Swift, SwiftUI, LangGraph |
-| **[SpendSense](https://github.com/karinje/spendsense)** | Consent-aware financial education platform with multi-layer guardrails and Plaid sync. | FastAPI, React, Firebase |
-| **[DreamUp QA](https://github.com/karinje/dreamup)** | Autonomous browser game testing agent with LLM-driven gameplay and batch execution. | Node.js, Browserbase, OpenAI |
+🔗 [Portfolio](https://sanjaykarinje.dev) • [Resume](https://sanjaykarinje.dev/resume.pdf) • [LinkedIn](https://linkedin.com/in/sanjay-karinje)
 
 ---
 
-## 🔧 Technologies
+## 🚀 Featured Projects
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### [Weftly](https://github.com/karinje/message-ai)
+
+iOS messaging app with a unified AI agent that automatically extracts calendar events, deadlines, RSVPs, and priority messages from conversations. Features conflict detection against device calendar and semantic search via RAG.
+
+**Tech:** Swift, SwiftUI, SwiftData, Firebase, LangGraph, Pinecone
 
 ---
 
-## 📫 Connect
+### [CanvasIQ](https://github.com/karinje/collab-canvas)
 
-- 🌐 [sanjaykarinje.dev](https://sanjaykarinje.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/sanjaykarinje)
+Real-time collaborative whiteboard with AI-powered canvas manipulation. Users can create and edit shapes via natural language commands through a LangGraph-based agent with 19 specialized tools. Supports 600+ objects at 60 FPS with sub-100ms sync.
+
+**Tech:** React, TypeScript, Konva.js, Firebase, LangGraph, GPT-4o
+
+---
+
+### [Game Eval](https://github.com/karinje/dreamup)
+
+Autonomous AI-powered game testing platform using browser automation and LLMs to evaluate browser-based games through a multi-phase pipeline: load validation, control discovery, gameplay exploration, and quality scoring.
+
+**Tech:** Node.js, TypeScript, Browserbase, OpenAI API
+
+---
+
+### [Step Tutor](https://github.com/karinje/step-tutor)
+
+AI math tutor that guides students through problems using the Socratic method—asking questions instead of giving answers. Integrates with GeoGebra canvas for visualizing geometry and functions through a 3-node agent architecture with 20 drawing tools.
+
+**Tech:** Next.js, TypeScript, OpenAI API, GeoGebra
+
+---
+
+### [Clip Forge](https://github.com/karinje/clip-forge)
+
+Desktop video editor with screen recording, webcam capture, and Picture-in-Picture composition. Features multi-track timeline editing, professional keyboard shortcuts, and FFmpeg-powered export to MP4/WebM/MOV at up to 1080p.
+
+**Tech:** Electron, React, TypeScript, Zustand, FFmpeg
+
+---
+
+### [SpendSense](https://github.com/karinje/spendsense)
+
+Consent-aware financial education platform that syncs transaction data from banks, computes behavioral features, assigns user personas, and generates personalized education content. Multi-layer guardrails ensure recommendations are safe and appropriate.
+
+**Tech:** Python, FastAPI, React, TypeScript, Firebase
+
+---
+
+### Metriq *(Private)*
+
+Community-driven platform for quantum computing benchmarks. Researchers submit performance results across quantum hardware and compilers, enabling transparent comparison of progress in the field.
+
+**Tech:** React, Python, PostgreSQL, Docker
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, Python, Swift
+
+**Frontend:** React, Next.js, SwiftUI, Tailwind CSS
+
+**Backend:** Node.js, FastAPI, Firebase
+
+**AI/ML:** LangGraph, OpenAI API, Pinecone, RAG
+
+**Tools:** Electron, FFmpeg, GeoGebra, Browserbase
+
+---
+
+_Building AI-native applications that solve real problems._
