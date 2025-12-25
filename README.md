@@ -36,7 +36,7 @@ Desktop video editor with screen recording, webcam capture, and Picture-in-Pictu
 
 ---
 
-### [SpendSense](https://github.com/karinje/spendsense)
+### [Spend Sense](https://github.com/karinje/spendsense)
 *AI financial coach that learns your spending habits and educates*
 
 Consent-aware financial education platform that syncs transaction data from banks, computes behavioral features, assigns user personas, and generates personalized education content. Multi-layer guardrails ensure recommendations are safe and appropriate.
